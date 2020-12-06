@@ -30,8 +30,9 @@ For this day I wanted to try something new but not that crazy. I've never
 used this language, but my previous experience with the .net environment really
 helped.
 
-I struggled a lot with algorithms since everything was unmutable but Linq came
-to help. I found extremely difficult to handle null values: I don't like that.
+I struggled a lot with the algorithms since everything was unmutable but Linq
+came to help. I found it extremely difficult to handle null values: I don't
+like that.
 
 Performance sucks but I'm glad that it works and I still have plenty of hair.
 
