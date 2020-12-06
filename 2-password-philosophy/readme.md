@@ -1,5 +1,16 @@
-# Challenge 2: Password Philosophy
+## Challenge 2: Password Philosophy
 
+Requirements to run:
+ - gcc
+ - make
+
+How to run:
+```
+make
+./program.out
+```
+
+### Part One
 Your flight departs in a few days from the coastal airport; the easiest way down
 to the coast from here is via toboggan.
 
@@ -17,11 +28,9 @@ that password was set.
 
 For example, suppose you have the following list:
 
-```
-1-3 a: abcde
-1-3 b: cdefg
-2-9 c: ccccccccc
-```
+    1-3 a: abcde
+    1-3 b: cdefg
+    2-9 c: ccccccccc
 
 Each line gives the password policy and then the password. The password policy
 indicates the lowest and highest number of times a given letter must appear for
@@ -35,7 +44,7 @@ their respective policies.
 
 How many passwords are valid according to their policies?
 
-# Part Two
+### Part Two
 
 While it appears you validated the passwords correctly, they don't seem to be
 what the Official Toboggan Corporate Authentication System is expecting.
@@ -52,11 +61,9 @@ irrelevant for the purposes of policy enforcement.
 
 Given the same example list from above:
 
-```
-1-3 a: abcde is valid: position 1 contains a and position 3 does not.
-1-3 b: cdefg is invalid: neither position 1 nor position 3 contains b.
-2-9 c: ccccccccc is invalid: both position 2 and position 9 contain c.
-```
+    1-3 a: abcde is valid: position 1 contains a and position 3 does not.
+    1-3 b: cdefg is invalid: neither position 1 nor position 3 contains b.
+    2-9 c: ccccccccc is invalid: both position 2 and position 9 contain c.
 
 How many passwords are valid according to the new interpretation of the
 policies?

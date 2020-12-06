@@ -1,5 +1,15 @@
 ## Day 4: Passport Processing
 
+Requirements to run:
+ - dotnet
+
+How to run:
+
+```
+dotnet run
+```
+
+
 ### Part One
 
 You arrive at the airport only to realize that you grabbed your North Pole Credentials instead of your passport. While these documents are extremely similar, North Pole Credentials aren't issued by a country and therefore aren't actually valid documentation for travel in most of the world.
