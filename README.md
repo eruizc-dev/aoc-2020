@@ -18,9 +18,21 @@ things in C before it gets too complicated.
 This day I decided to use multiple languages as I saw an oportunity to do
 brainfuck before things get complicated.
 
-I found no interpreter/compiler that worked on my machine so I did my own and added
-support for multiple input streams to read directly from an input file.
+I found no interpreter/compiler that worked on my machine so I did my own and
+added support for multiple input streams to read directly from an input file.
 
 It was very rough, I gave up at some point and got some bash to help me. But
 I'm happy with the result, I'm not doing esoteric anymore...
+
+#### Day 4: [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+
+For this day I wanted to try something new but not that crazy. I've never
+used this language, but my previous experience with the .net environment really
+helped.
+
+I struggled a lot with algorithms since everything was unmutable but Linq came
+to help. I found extremely difficult to handle null values: I don't like that.
+
+Performance sucks but I'm glad that it works and I still have plenty of hair.
+
 
