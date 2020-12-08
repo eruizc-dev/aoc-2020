@@ -1,4 +1,4 @@
-## Challenge 2: Password Philosophy
+## Day 2: Password Philosophy
 
 Requirements to run:
  - gcc

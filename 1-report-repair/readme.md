@@ -1,4 +1,4 @@
-## Challenge 1: Report Repair
+## Day 1: Report Repair
 
 Requirements to run:
  - Python
