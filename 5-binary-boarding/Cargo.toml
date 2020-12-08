@@ -1,0 +1,7 @@
+[package]
+name = "binary-boarding"
+version = "0.1.0"
+authors = ["Emiliano Ruiz Carletti <root@eruizc.dev>"]
+edition = "2018"
+
+[dependencies]
