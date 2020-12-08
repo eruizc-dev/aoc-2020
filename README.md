@@ -41,13 +41,14 @@ Performance sucks but I'm glad that it works and I still have plenty of hair.
 
 #### Day 5: [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
-I struggled a lot for this day, more selecting the language than anythin else:
+I struggled a lot for this day! Mostly selecting the language than anything else:
 I wanted something new and challenging but I was very lazy. I had
 [Fortran](https://en.wikipedia.org/wiki/Fortran) and
-[Cobol](https://en.wikipedia.org/wiki/COBOL) on the top of my head and almost
-attempted [Oak](https://github.com/adam-mcdaniel/oakc).
+[Cobol](https://en.wikipedia.org/wiki/COBOL) at the top of my head and almost
+attempted using [Oak](https://github.com/adam-mcdaniel/oakc).
 
-I like Rust: it shares some familiarities with
-[C++](https://en.wikipedia.org/wiki/C%2B%2B) with a very clean and minimalist
-syntax that I really liked. Except for their horrible lambda functions, at least
-they're better than [Python's](https://www.geeksforgeeks.org/python-lambda/)...
+I like [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)): it
+shares some familiarities with [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+with a very clean and minimalist syntax that I really liked. Except for their
+horrible lambda functions, at least they're better than
+[Python's](https://www.geeksforgeeks.org/python-lambda/)...
