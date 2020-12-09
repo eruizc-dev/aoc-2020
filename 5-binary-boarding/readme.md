@@ -1,5 +1,15 @@
 ## Day 5: Binary Boarding
 
+Requirements to run:
+ - Cargo
+
+How to run:
+
+```
+cargo run
+```
+
+
 ### Part One
 
 You board your plane only to discover a new problem: you dropped your boarding
