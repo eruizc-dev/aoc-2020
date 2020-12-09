@@ -52,3 +52,14 @@ shares some familiarities with [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 with a very clean and minimalist syntax that I really liked. Except for their
 horrible lambda functions, at least they're better than
 [Python's](https://www.geeksforgeeks.org/python-lambda/)...
+
+#### Day 6: [Fortran](https://en.wikipedia.org/wiki/Fortran)
+
+I really wanted to make this day in
+[C](https://en.wikipedia.org/wiki/C_(programming_language)), but I've already
+used it for day 2. What else can I use? Haskell? Prolog? No! Fortran!
+
+It was such an amazing experience to work with this language. I almost resigned
+and attempted [Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29)!
+The string manipulation is horrible and because I spent over 5 hours to solve
+this challenge I decided I would not try to clean/optimize this code.
